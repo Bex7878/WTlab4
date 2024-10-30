@@ -1,0 +1,9 @@
+/* Additional styles */
+.container {
+    max-width: 800px;
+}
+
+#fizzBuzzList {
+    max-height: 200px;
+    overflow-y: auto;
+}
